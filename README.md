@@ -2,7 +2,7 @@
 
 An interview task created by Polymathian.
 
-Completed by: <Your name>
+Completed by: Erick Almeida
 
 ## License
 
